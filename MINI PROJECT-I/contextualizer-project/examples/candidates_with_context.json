@@ -1,0 +1,41 @@
+{
+  "context": "Early detection of diabetic retinopathy using transformer models on retinal fundus images. Diabetic retinopathy is a leading cause of preventable blindness, and screening programmes need automated grading of fundus photographs. We investigate whether vision transformers outperform convolutional networks at detecting early-stage lesions such as microaneurysms.",
+  "documents": [
+    {
+      "id": "ref-01",
+      "title": "Vision transformers for diabetic retinopathy grading from retinal fundus photographs",
+      "abstract": "We fine-tune vision transformer architectures to grade diabetic retinopathy severity on fundus photographs. The model detects early-stage lesions including microaneurysms and haemorrhages, and is compared against convolutional neural networks on a public retinal image dataset.",
+      "year": 2023
+    },
+    {
+      "id": "ref-02",
+      "title": "Deep learning for automated screening of diabetic retinopathy",
+      "abstract": "Convolutional neural networks were trained on retinal images to screen for referable diabetic retinopathy. Sensitivity and specificity were evaluated in a clinical screening programme.",
+      "year": 2019
+    },
+    {
+      "id": "ref-03",
+      "title": "Convolutional networks for pneumonia detection in chest X-ray images",
+      "abstract": "We train a convolutional neural network to detect pneumonia in chest radiographs and report early detection performance across hospitals.",
+      "year": 2020
+    },
+    {
+      "id": "ref-04",
+      "title": "Vision transformers at scale for image recognition",
+      "abstract": "Transformer architectures are applied directly to sequences of image patches and match convolutional networks on large natural image benchmarks such as ImageNet.",
+      "year": 2021
+    },
+    {
+      "id": "ref-05",
+      "title": "Early fault detection in power transformer windings using dissolved gas analysis",
+      "abstract": "Power transformer failures are costly. We present an early detection scheme for winding faults based on dissolved gas analysis and thermal models of oil-filled transformers.",
+      "year": 2018
+    },
+    {
+      "id": "ref-06",
+      "title": "Nitrogen uptake efficiency in winter wheat under drought stress",
+      "abstract": "Field trials measured soil nitrogen availability and crop yield across irrigation regimes in winter wheat cultivars.",
+      "year": 2017
+    }
+  ]
+}

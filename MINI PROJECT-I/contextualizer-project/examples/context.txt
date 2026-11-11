@@ -1,0 +1,1 @@
+Early detection of diabetic retinopathy using transformer models on retinal fundus images. Diabetic retinopathy is a leading cause of preventable blindness, and screening programmes need automated grading of fundus photographs. We investigate whether vision transformers outperform convolutional networks at detecting early-stage lesions such as microaneurysms.
